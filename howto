@@ -1,0 +1,5 @@
+ git remote add origin git@github.com:GitProger/flag-index.git   # initial
+ git branch -M main                                              # initial
+
+git push -u origin main
+
