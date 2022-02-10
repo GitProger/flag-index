@@ -1,0 +1,3 @@
+pip3 install pycountry
+pip3 install pillow
+
