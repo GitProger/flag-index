@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-import os, re, glob, pycountry
+import sys, os, re, glob, pycountry
 
 GREEN = '\033[1;32m' 
 RED = '\033[1;31m'
 END = '\033[0m'
+
+COLOR = len(sys.argv) > 1 and sys.argv[1] == "c"
 
 def koef(n):
     def sz(n):
@@ -15,8 +17,14 @@ def get_name_from_file(f):
     res = pycountry.countries.get(alpha_2=country_code)
 
     if res is None:
-        return RED + country_code + END
-    return GREEN + res.name + END
+        if COLOR:
+            return RED + country_code + END
+        else:
+            return country_code
+    if COLOR:
+        return GREEN + res.name + END
+    else:
+        return res.name
 
 print(
     "\n".join(

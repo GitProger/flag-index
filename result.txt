@@ -1,255 +1,255 @@
-[1;32mMonaco[0m
-[1;32mGabon[0m
-[1;32mBolivia, Plurinational State of[0m
-[1;32mUkraine[0m
-[1;32mRussian Federation[0m
-[1;32mGambia[0m
-[1;32mPoland[0m
-[1;32mGermany[0m
-[1;32mLithuania[0m
-[1;32mBulgaria[0m
-[1;32mLuxembourg[0m
-[1;32mBotswana[0m
-[1;32mLatvia[0m
-[1;32mArmenia[0m
-[1;32mHungary[0m
-[1;32mAustria[0m
-[1;32mSierra Leone[0m
-[1;32mNetherlands[0m
-[1;32mThailand[0m
-[1;32mEstonia[0m
-[1;32mColombia[0m
-[1;32mMauritius[0m
-[1;32mYemen[0m
-[1;32mNiger[0m
-[1;32mBurkina Faso[0m
-[1;32mIndonesia[0m
-[1;32mSwitzerland[0m
-[1;32mSuriname[0m
-[1;32mSomalia[0m
-[1;32mSweden[0m
-[1;32mMorocco[0m
-[1;31mgb-eng[0m
-[1;32mGhana[0m
-[1;32mTonga[0m
-[1;32mSyrian Arab Republic[0m
-[1;32mLibya[0m
-[1;32mBenin[0m
-[1;32mPeru[0m
-[1;32mMadagascar[0m
-[1;32mHonduras[0m
-[1;32mFinland[0m
-[1;32mBangladesh[0m
-[1;32mUnited Arab Emirates[0m
-[1;32mNigeria[0m
-[1;32mLao People's Democratic Republic[0m
-[1;32mGreece[0m
-[1;32mJapan[0m
-[1;32mBahrain[0m
-[1;32mFaroe Islands[0m
-[1;32mNorway[0m
-[1;32mSvalbard and Jan Mayen[0m
-[1;32mBouvet Island[0m
-[1;32mAzerbaijan[0m
-[1;32mPalau[0m
-[1;32mUzbekistan[0m
-[1;32mÅland Islands[0m
-[1;32mKuwait[0m
-[1;32mCzechia[0m
-[1;32mLiberia[0m
-[1;32mChina[0m
-[1;32mDenmark[0m
-[1;32mIraq[0m
-[1;32mSudan[0m
-[1;32mNauru[0m
-[1;32mPalestine, State of[0m
-[1;32mGreenland[0m
-[1;32mChile[0m
-[1;32mCuraçao[0m
-[1;32mAruba[0m
-[1;32mSingapore[0m
-[1;32mBahamas[0m
-[1;32mBelgium[0m
-[1;32mMaldives[0m
-[1;32mFrance[0m
-[1;32mSaint Martin (French part)[0m
-[1;32mCôte d'Ivoire[0m
-[1;32mItaly[0m
-[1;32mJordan[0m
-[1;32mGuinea[0m
-[1;32mChad[0m
-[1;32mRomania[0m
-[1;32mMali[0m
-[1;32mMauritania[0m
-[1;32mGuernsey[0m
-[1;32mMicronesia, Federated States of[0m
-[1;32mIceland[0m
-[1;32mIsrael[0m
-[1;32mCentral African Republic[0m
-[1;32mIreland[0m
-[1;32mCongo[0m
-[1;32mTogo[0m
-[1;32mGuinea-Bissau[0m
-[1;32mViet Nam[0m
-[1;32mTurkey[0m
-[1;32mVenezuela, Bolivarian Republic of[0m
-[1;32mQatar[0m
-[1;32mSamoa[0m
-[1;32mWallis and Futuna[0m
-[1;32mJamaica[0m
-[1;32mSlovenia[0m
-[1;32mLesotho[0m
-[1;32mFrench Guiana[0m
-[1;32mCameroon[0m
-[1;32mTajikistan[0m
-[1;32mMyanmar[0m
-[1;32mSouth Africa[0m
-[1;32mCuba[0m
-[1;32mSao Tome and Principe[0m
-[1;32mSouth Sudan[0m
-[1;32mDjibouti[0m
-[1;32mKorea, Democratic People's Republic of[0m
-[1;32mPuerto Rico[0m
-[1;32mSenegal[0m
-[1;32mWestern Sahara[0m
-[1;32mTunisia[0m
-[1;32mCabo Verde[0m
-[1;32mTanzania, United Republic of[0m
-[1;32mGeorgia[0m
-[1;31mgb-sct[0m
-[1;32mTaiwan, Province of China[0m
-[1;32mSlovakia[0m
-[1;32mUganda[0m
-[1;32mComoros[0m
-[1;32mCongo, The Democratic Republic of the[0m
-[1;32mSeychelles[0m
-[1;32mFrench Southern Territories[0m
-[1;32mGuyana[0m
-[1;32mAlgeria[0m
-[1;32mSaint Lucia[0m
-[1;32mAngola[0m
-[1;32mPanama[0m
-[1;32mTimor-Leste[0m
-[1;32mBarbados[0m
-[1;32mMalaysia[0m
-[1;32mPakistan[0m
-[1;32mTrinidad and Tobago[0m
-[1;31mxk[0m
-[1;32mIran, Islamic Republic of[0m
-[1;32mRwanda[0m
-[1;32mMalta[0m
-[1;32mIndia[0m
-[1;32mSaint Vincent and the Grenadines[0m
-[1;32mLebanon[0m
-[1;32mMongolia[0m
-[1;32mAntarctica[0m
-[1;32mGibraltar[0m
-[1;32mUnited Kingdom[0m
-[1;32mTokelau[0m
-[1;32mCanada[0m
-[1;32mNiue[0m
-[1;32mNepal[0m
-[1;32mCyprus[0m
-[1;32mAntigua and Barbuda[0m
-[1;32mSaint Kitts and Nevis[0m
-[1;32mSolomon Islands[0m
-[1;32mNew Caledonia[0m
-[1;32mKenya[0m
-[1;32mBelarus[0m
-[1;32mBurundi[0m
-[1;32mMalawi[0m
-[1;32mBonaire, Sint Eustatius and Saba[0m
-[1;32mLiechtenstein[0m
-[1;32mNamibia[0m
-[1;32mEthiopia[0m
-[1;32mGrenada[0m
-[1;32mRéunion[0m
-[1;32mKorea, Republic of[0m
-[1;32mVanuatu[0m
-[1;32mNew Zealand[0m
-[1;32mMozambique[0m
-[1;32mAnguilla[0m
-[1;32mZimbabwe[0m
-[1;32mMacao[0m
-[1;32mHong Kong[0m
-[1;32mZambia[0m
-[1;32mParaguay[0m
-[1;32mPapua New Guinea[0m
-[1;32mBosnia and Herzegovina[0m
-[1;32mPhilippines[0m
-[1;32mEquatorial Guinea[0m
-[1;32mMartinique[0m
-[1;32mEswatini[0m
-[1;32mOman[0m
-[1;32mAlbania[0m
-[1;32mHeard Island and McDonald Islands[0m
-[1;32mAustralia[0m
-[1;32mBrazil[0m
-[1;32mGuam[0m
-[1;32mEgypt[0m
-[1;32mNorth Macedonia[0m
-[1;32mChristmas Island[0m
-[1;32mTuvalu[0m
-[1;32mFrench Polynesia[0m
-[1;32mCocos (Keeling) Islands[0m
-[1;32mUnited States Minor Outlying Islands[0m
-[1;32mUnited States[0m
-[1;32mCambodia[0m
-[1;32mEritrea[0m
-[1;32mCroatia[0m
-[1;32mNicaragua[0m
-[1;32mArgentina[0m
-[1;32mUruguay[0m
-[1;32mDominica[0m
-[1;32mNorfolk Island[0m
-[1;32mMarshall Islands[0m
-[1;32mCosta Rica[0m
-[1;32mMontserrat[0m
-[1;32mCook Islands[0m
-[1;32mIsle of Man[0m
-[1;32mSaudi Arabia[0m
-[1;32mDominican Republic[0m
-[1;32mSint Maarten (Dutch part)[0m
-[1;32mTurks and Caicos Islands[0m
-[1;32mKyrgyzstan[0m
-[1;32mHaiti[0m
-[1;32mBrunei Darussalam[0m
-[1;31mgb-nir[0m
-[1;32mKiribati[0m
-[1;32mSpain[0m
-[1;32mSaint Helena, Ascension and Tristan da Cunha[0m
-[1;32mGuatemala[0m
-[1;32mMoldova, Republic of[0m
-[1;32mGuadeloupe[0m
-[1;32mEl Salvador[0m
-[1;32mAndorra[0m
-[1;32mKazakhstan[0m
-[1;32mFiji[0m
-[1;32mHoly See (Vatican City State)[0m
-[1;32mSri Lanka[0m
-[1;32mPortugal[0m
-[1;32mJersey[0m
-[1;32mMontenegro[0m
-[1;32mAmerican Samoa[0m
-[1;32mPitcairn[0m
-[1;32mBermuda[0m
-[1;32mVirgin Islands, British[0m
-[1;32mCayman Islands[0m
-[1;32mMexico[0m
-[1;32mEcuador[0m
-[1;32mMayotte[0m
-[1;32mFalkland Islands (Malvinas)[0m
-[1;32mTurkmenistan[0m
-[1;32mSerbia[0m
-[1;32mSan Marino[0m
-[1;32mBelize[0m
-[1;32mSouth Georgia and the South Sandwich Islands[0m
-[1;32mVirgin Islands, U.S.[0m
-[1;31mgb-wls[0m
-[1;32mBhutan[0m
-[1;32mBritish Indian Ocean Territory[0m
-[1;32mNorthern Mariana Islands[0m
-[1;32mAfghanistan[0m
-[1;32mSaint Barthélemy[0m
-[1;32mSaint Pierre and Miquelon[0m
+Monaco
+Gabon
+Bolivia, Plurinational State of
+Ukraine
+Russian Federation
+Gambia
+Poland
+Germany
+Lithuania
+Bulgaria
+Luxembourg
+Botswana
+Latvia
+Armenia
+Hungary
+Austria
+Sierra Leone
+Netherlands
+Thailand
+Estonia
+Colombia
+Mauritius
+Yemen
+Niger
+Burkina Faso
+Indonesia
+Switzerland
+Suriname
+Somalia
+Sweden
+Morocco
+gb-eng
+Ghana
+Tonga
+Syrian Arab Republic
+Libya
+Benin
+Peru
+Madagascar
+Honduras
+Finland
+Bangladesh
+United Arab Emirates
+Nigeria
+Lao People's Democratic Republic
+Greece
+Japan
+Bahrain
+Faroe Islands
+Norway
+Svalbard and Jan Mayen
+Bouvet Island
+Azerbaijan
+Palau
+Uzbekistan
+Åland Islands
+Kuwait
+Czechia
+Liberia
+China
+Denmark
+Iraq
+Sudan
+Nauru
+Palestine, State of
+Greenland
+Chile
+Curaçao
+Aruba
+Singapore
+Bahamas
+Belgium
+Maldives
+France
+Saint Martin (French part)
+Côte d'Ivoire
+Italy
+Jordan
+Guinea
+Chad
+Romania
+Mali
+Mauritania
+Guernsey
+Micronesia, Federated States of
+Iceland
+Israel
+Central African Republic
+Ireland
+Congo
+Togo
+Guinea-Bissau
+Viet Nam
+Turkey
+Venezuela, Bolivarian Republic of
+Qatar
+Samoa
+Wallis and Futuna
+Jamaica
+Slovenia
+Lesotho
+French Guiana
+Cameroon
+Tajikistan
+Myanmar
+South Africa
+Cuba
+Sao Tome and Principe
+South Sudan
+Djibouti
+Korea, Democratic People's Republic of
+Puerto Rico
+Senegal
+Western Sahara
+Tunisia
+Cabo Verde
+Tanzania, United Republic of
+Georgia
+gb-sct
+Taiwan, Province of China
+Slovakia
+Uganda
+Comoros
+Congo, The Democratic Republic of the
+Seychelles
+French Southern Territories
+Guyana
+Algeria
+Saint Lucia
+Angola
+Panama
+Timor-Leste
+Barbados
+Malaysia
+Pakistan
+Trinidad and Tobago
+xk
+Iran, Islamic Republic of
+Rwanda
+Malta
+India
+Saint Vincent and the Grenadines
+Lebanon
+Mongolia
+Antarctica
+Gibraltar
+United Kingdom
+Tokelau
+Canada
+Niue
+Nepal
+Cyprus
+Antigua and Barbuda
+Saint Kitts and Nevis
+Solomon Islands
+New Caledonia
+Kenya
+Belarus
+Burundi
+Malawi
+Bonaire, Sint Eustatius and Saba
+Liechtenstein
+Namibia
+Ethiopia
+Grenada
+Réunion
+Korea, Republic of
+Vanuatu
+New Zealand
+Mozambique
+Anguilla
+Zimbabwe
+Macao
+Hong Kong
+Zambia
+Paraguay
+Papua New Guinea
+Bosnia and Herzegovina
+Philippines
+Equatorial Guinea
+Martinique
+Eswatini
+Oman
+Albania
+Heard Island and McDonald Islands
+Australia
+Brazil
+Guam
+Egypt
+North Macedonia
+Christmas Island
+Tuvalu
+French Polynesia
+Cocos (Keeling) Islands
+United States Minor Outlying Islands
+United States
+Cambodia
+Eritrea
+Croatia
+Nicaragua
+Argentina
+Uruguay
+Dominica
+Norfolk Island
+Marshall Islands
+Costa Rica
+Montserrat
+Cook Islands
+Isle of Man
+Saudi Arabia
+Dominican Republic
+Sint Maarten (Dutch part)
+Turks and Caicos Islands
+Kyrgyzstan
+Haiti
+Brunei Darussalam
+gb-nir
+Kiribati
+Spain
+Saint Helena, Ascension and Tristan da Cunha
+Guatemala
+Moldova, Republic of
+Guadeloupe
+El Salvador
+Andorra
+Kazakhstan
+Fiji
+Holy See (Vatican City State)
+Sri Lanka
+Portugal
+Jersey
+Montenegro
+American Samoa
+Pitcairn
+Bermuda
+Virgin Islands, British
+Cayman Islands
+Mexico
+Ecuador
+Mayotte
+Falkland Islands (Malvinas)
+Turkmenistan
+Serbia
+San Marino
+Belize
+South Georgia and the South Sandwich Islands
+Virgin Islands, U.S.
+gb-wls
+Bhutan
+British Indian Ocean Territory
+Northern Mariana Islands
+Afghanistan
+Saint Barthélemy
+Saint Pierre and Miquelon
 
